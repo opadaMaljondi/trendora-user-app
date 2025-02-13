@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "645471674999",
+    "project_id": "trendora-d65d5",
+    "storage_bucket": "trendora-d65d5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645471674999:android:cf20ab4faea85fbeda9c72",
+        "android_client_info": {
+          "package_name": "com.trendora.logic.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645471674999-ac17nu65k38omd5d118ea6m37145ivor.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trendora.logic.com",
+            "certificate_hash": "0e1deb73c2dbd5e9ad099b90ba4ec2d832a26bfb"
+          }
+        },
+        {
+          "client_id": "645471674999-kiibo8djkjaosj7i4lu4km0agnto8i6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSpEoJENIFJu8iYJatKP14oagVq8Ul9e8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645471674999-kiibo8djkjaosj7i4lu4km0agnto8i6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
